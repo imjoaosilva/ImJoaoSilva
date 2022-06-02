@@ -1,14 +1,10 @@
-![Lakshmanan Meiyappan Banner Image](https://cdn.discordapp.com/attachments/971881081685037126/981709231449341962/b95a378f1b5c68bd3677d45e4441e586.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
-
-<h2>Hey! 👋</h2>
+<h2>Olá visitante! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Z4Dev)](https://github.com/Z4Dev) [![GitHub followers](https://img.shields.io/github/followers/Z4Dev.svg?style=social&label=Follow)](https://github.com/Z4Dev?tab=followers)
 
 Sou o João Silva! 
 - <i>Atualmente:</i> Estudante Javascript. 
-- <i>Previously:</i> Estudante Lua.
+- <i>Anteriormente:</i> Estudante Lua.
 
 <h2>💻 Atualmente estou a trabalhar</h2>
 
