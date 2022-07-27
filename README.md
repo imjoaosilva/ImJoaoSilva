@@ -31,7 +31,6 @@ Sou o João Silva!
 
 Estou tirando um curso profissional, Estudante de programação. Portugal!
  
-- Amazing Store: [https://discord.gg/umMMpjXzqZ]([[https://laxmena.com](https://discord.gg/umMMpjXzqZ)](https://discord.gg/umMMpjXzqZ))
 
 <div>
 <a href="https://github.com/Z4Dev">
