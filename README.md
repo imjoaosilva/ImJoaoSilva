@@ -129,7 +129,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Z4Dev&theme=github	)](https://github.com/Z4Dev/github-readme-activity-graph)
+[![Z4Dev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Z4Dev&theme=dracula)](https://github.com/Z4Dev/github-readme-activity-graph)
 
  
 </details>
