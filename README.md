@@ -156,6 +156,9 @@
 	<a href="https://github.com/Z4Dev/Google">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Z4Dev&repo=Google&theme=dracula" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/Z4Dev/node-simple-shortener/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Z4Dev&repo=node-simple-shortener&theme=dracula" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 </details>
