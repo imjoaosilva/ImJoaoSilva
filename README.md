@@ -16,8 +16,6 @@
 <br><br>
 
 - :school: Eu sou um `Junior` FullStack Developer focado em desenvolvimento web 
-- :trophy: Desenvolvedor na `Vitti Codes` .
-- :technologist: Adoro desenvolver bots e procurar bugs no `Discord`.
 - :computer: Sou um programador que sabe e gosta de trabalhar em equipa.
 - :student: Procurando melhorar e aprender coisas novas `todos os dias`.
 - :boom: Visita o meu site clicando [AQUI](https://vitti-js.netlify.app/).
