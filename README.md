@@ -148,6 +148,9 @@
 	
 <div>
   <p align="center">
+	<a href="https://github.com/Z4Dev/to-do/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Z4Dev&repo=to-do&theme=dracula" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/Z4Dev/MorenuEncomenda-Dropado-">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Z4Dev&repo=MorenuEncomenda-Dropado-&theme=dracula" alt="GitHub Stats" />
     	</a>
