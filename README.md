@@ -1,54 +1,79 @@
-# 👋 Hey, I'm João Silva
+<h1 align="center">Hi, I'm João Silva 👋</h1>
 
-**Web Developer • Rust Learner**
+<p align="center">
+  <b>Web Developer</b> · <b>Rust Learner</b> · <b>Systems Programming Enthusiast</b>
+</p>
 
-## 🚀 Tech Focus
-- **Rust**, **TypeScript**, **Node.js (Express / Elysia)**
+<p align="center">
+  I build clean, performant software and enjoy diving into systems-level concepts.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=919E95&center=true&vCenter=true&width=520&lines=Rust+%2B+Systems+Thinking;Performance+Matters;Clean+Code+Over+Clever+Code" />
+</p>
+
+---
+
+## 🧠 Focus
+- **Rust**, **TypeScript**, **Node.js** *(Express / Elysia)*
 - **React**, **Tauri**
 - **SQL**, **Prisma**, **Drizzle ORM**
 - **MongoDB**
-- Diving deeper into **systems programming**, **low-level memory**, and **compiler fundamentals**
+- Learning: **memory**, **processes**, **virtual memory**, **compiler internals**
 
 ---
 
-## 📦 What I'm Building (Current)
-Working on something new (**private for now**), but coming soon.
+## 🧰 Core Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,nodejs,react,tauri,postgres,mongodb,linux,arch,express,docker,git,cloudflare,vite,bun" />
+</p>
 
 ---
 
-## 🧰 Tools I Use Everyday
-![Tools](https://skillicons.dev/icons?i=rust,ts,nodejs,react,tauri,postgres,mongodb,linux,arch,express,docker,git,cloudflare,vite,bun)
+## ✨ Current Work
+<details>
+  <summary><b>What I'm building</b></summary>
+
+  A new project (private for now), focused on performance, clarity, and long-term maintainability.
+</details>
+
+<details>
+  <summary><b>What I'm learning</b></summary>
+
+  Advanced Rust · Memory management · CPU scheduling · Process isolation · Compiler internals
+</details>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+## 📊 Activity Snapshot
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=imjoaosilva&theme=github-dark&hide_border=true&bg_color=0d1117&color=919E95&line=5E5F5B&point=919E95"
+  />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=imjoaosilva&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjoaosilva&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## ⚡ Activity Metrics
-![Streak](https://streak-stats.demolab.com?user=imjoaosilva&theme=dark&hide_border=true)
+<p align="center">
+  <sub>Recent contribution activity — focused on consistency, not volume.</sub>
+</p>
 
 ---
 
-## 📡 Quick Dev Cards
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjoaosilva&theme=github_dark)
+## 🐍 Contribution Flow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imjoaosilva/imjoaosilva/output/github-snake-dark.svg" />
+</p>
+
 
 ---
 
-## 👀 What I'm Learning Next
-- More **Rust**
-- Systems-level concepts: **CPU scheduling**, **virtual memory**, **process isolation**, **compiler internals**
+## 🤝 Contact
+- **Discord:** `imz4`
+- **Email:** contactojoaosilva@gmail.com
 
----
+<p align="center">
+  <sub style="color:#5E5F5B;">
+    Open to collaboration, OSS work, and meaningful technical conversations.
+  </sub>
+</p>
 
-## 🤝 Want to Talk?
-- **Discord:** `imz4` 🍂  
-- **Email:** contactojoaosilva@gmail.com  
-
-Always open to collabs, OSS work, or just dev conversation.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1D20,100:5E5F5B&height=120&section=footer&animation=fadeIn" />
